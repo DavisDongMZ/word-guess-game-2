@@ -13,7 +13,7 @@ Before you start the front end, please run
 npm install/ npm start
 ```
 ### Backend service
-The backend is implemented by nodejs, you can also change the end point if you want.
+The backend is implemented by nodejs, you can also change the end point or use other api(like RESTful) if you want.
 Please run
 ```
 npm install / nodejs ...
