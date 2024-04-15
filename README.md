@@ -4,17 +4,19 @@ Right now we have finished the first part of wordle game, which use REACT as fro
 ### To start the wordle game
 First if you haven't learn REACT before, I would strongly recommend you know how to start a REACT project.
 You can create REACT project by
-'''
+```
 npx create-react-app "name"
-'''
+```
 Remember here is a demo of our game, you can create your own project and use our idea to implement your game. :)
 Before you start the front end, please run
-'''
+```
 npm install/ npm start
-'''
+```
 ### Backend service
 The backend is implemented by nodejs, you can also change the end point if you want.
 Please run
-'''
+```
 npm install / nodejs ...
-'''
+```
+### Demo
+Game demo should be the same as word guess game 1 in my repo, if you want to check you can visit that.
